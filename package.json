@@ -1,0 +1,11 @@
+{
+  "name": "telegramfox",
+  "title": "Telegram Fox",
+  "id": "telegramfox@jetpack",
+  "description": "Access telegram via panel in Firefox Desktop.",
+  "author": "ariestiyansyah",
+  "license": "WTFPL",
+  "version": "1.0",
+  "icon": "icon.png",
+  "main": "js/index.js"
+}
