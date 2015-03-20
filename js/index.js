@@ -17,3 +17,12 @@ function telegram(state) {
     });
     panel.show();
 };
+
+var notifications = require("sdk/notifications");
+var myIconURL = "./32.png";
+
+notifications.notify({
+      text: "Telegram Fox",
+      iconURL: myIconURL
+});
+
